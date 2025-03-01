@@ -8,7 +8,7 @@ output:
 ------------------------------
 #include <stdio.h>
 
-int pattern1() {
+int main() {
     int n;
     printf("Enter the rows:");
     scanf("%d",&n);
